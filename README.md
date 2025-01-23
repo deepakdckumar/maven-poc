@@ -1,2 +1,1 @@
-```
 DependencyManagement can be used to manage multi-module and other projects as well where dependency will be used. If a pom.xml has dependencyManagement if inherit pom.xml declares that dependency as parent and use some dependency that is being using in dependencyManagement. We don't need to specify version.
